@@ -1,0 +1,8 @@
+﻿{
+  "MySection": {
+    "Example": {
+      "Name": "Foo",
+      "Amount": 10
+    }
+  }
+}
